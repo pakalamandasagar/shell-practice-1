@@ -1,5 +1,5 @@
 #!/bin/bash
 
-TIMESTAMP=$( Date )
+TIMESTAMP=$(date)
 
-echo "script execute at: $TIMESTAMP"
+echo "script executed at: $TIMESTAMP"
