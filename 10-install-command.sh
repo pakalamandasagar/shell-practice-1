@@ -17,5 +17,5 @@ then
     echo "Installing MySQL is ...SUCCESS"
 else
     echo "Installing MySQL is ...FAILURE"
-    #exit 1 #ERROR vacina prati sari exit status ivvali
+    exit 1 #ERROR vacina prati sari exit status ivvali
 fi
